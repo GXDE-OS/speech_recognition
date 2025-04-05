@@ -1,0 +1,5 @@
+speech-recognition (3.14.2) UNRELEASED; urgency=medium
+
+  * Support gpt-4o-transcribe and gpt-4o-mini-transcribe (in whisper_api.openai recognizer) by @ftnext in #833
+
+ -- gfdgd_xi <3025613752@qq.com>  Sat, 05 Apr 2025 08:46:29 +0800

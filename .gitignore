@@ -174,3 +174,5 @@ pocketsphinx-python/
 examples/TEST.py
 *.geany
 *.out
+
+.pybuild/
